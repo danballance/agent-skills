@@ -1,6 +1,6 @@
 ---
 name: comprehension-review
-description: Generate a self-contained HTML walkthrough, with review questions, for changed code. Use when a smal feature has been completed and a developer needs to understand what has changed. Do not use for tiny formatting-only diffs, routine lint fixes, or general bug-hunting review.
+description: Generate a self-contained HTML walkthrough, with review questions, for changed code. Use when a small feature has been completed and a developer needs to understand what has changed. Do not use for tiny formatting-only diffs, routine lint fixes, or general bug-hunting review.
 ---
 
 # Comprehension Review
